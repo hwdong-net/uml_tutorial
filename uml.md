@@ -20,8 +20,8 @@ A use-case model describes a system's functional requirements in terms of use ca
 
 [Difference Between Use Case Diagram and Activity Diagram](https://www.differencebetween.com/difference-between-use-case-diagram-and-activity-diagram/)
 
-[What is the difference between a UML use case diagram and an activity diagram?](https://www.quora.com/What-is-the-difference-between-a-UML-use-case-diagram-and-an-activity-diagram)Activity vs. sequence diagrams: what’s the difference?
-()
+[What is the difference between a UML use case diagram and an activity diagram?](https://www.quora.com/What-is-the-difference-between-a-UML-use-case-diagram-and-an-activity-diagram)
+
 [Activity vs. sequence diagrams: what’s the difference?](https://www.gleek.io/blog/activity-vs-sequence)
 
 [UML基础教程](https://www.cnblogs.com/leafsunshin/p/11495300.html)
