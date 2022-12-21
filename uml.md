@@ -9,6 +9,10 @@ A use-case model describes a system's functional requirements in terms of use ca
 **活动图**用来展示活动的顺序。 显示了从起始点到终点的工作流，描述了活动图中存在于事件进程的判断路径。
 ![](https://sparxsystems.cn/images/screenshots/uml2_tutorial/ad03.GIF)
 
+**顺序图**它显示对象沿生命线发展，对象之间随时间的交互表示为从源生命线指向目标生命线的消息。顺序图能很好地显示那些对象与其它那些对象通信，什么消息触发了这些通信，顺序图不能很好显示复杂过程的逻辑。
+![](https://sparxsystems.cn/images/screenshots/uml2_tutorial/seq07.GIF)
+
+
 [UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 
 [What is Unified Modeling Language (UML)?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
