@@ -6,6 +6,9 @@ Class Diagram is a UML diagram where you can visualize those classes, along with
 
 A use-case model describes a system's functional requirements in terms of use cases. It is a model of the system's intended functionality (use cases) and its environment (actors). Use cases enable you to relate what you need from a system to how the system delivers on those needs.
 
+**活动图**用来展示活动的顺序。 显示了从起始点到终点的工作流，描述了活动图中存在于事件进程的判断路径。
+![](https://sparxsystems.cn/images/screenshots/uml2_tutorial/ad03.GIF)
+
 [UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 
 [What is Unified Modeling Language (UML)?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
