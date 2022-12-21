@@ -18,7 +18,10 @@ A use-case model describes a system's functional requirements in terms of use ca
 
 [https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 
+[Difference Between Use Case Diagram and Activity Diagram](https://www.differencebetween.com/difference-between-use-case-diagram-and-activity-diagram/)
+
 [UML基础教程](https://www.cnblogs.com/leafsunshin/p/11495300.html)
+
 [程序员必备画图技能之——时序图](https://www.cnblogs.com/54chensongxia/p/13236965.html)
 
 [https://www.youtube.com/watch?v=WnMQ8HlmeXc](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
